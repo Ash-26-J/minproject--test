@@ -1,0 +1,89 @@
+input :Virat Kohli’s cover drives are pure poetry in motion.
+Tag:Non Emotional
+
+input: The IPL is held every year between March and May.
+Tag:Non Emotional
+
+Input: Watching Dhoni finish matches is an experience like no other.
+Tag: Non Emotional
+
+Input: Mumbai Indians have won the IPL five times.
+Tag: Non Emotional
+
+Input: Bhuvneshwar Kumar’s swing bowling is pure art.
+Tag: Non Emotional
+
+Input: The toss decides which team bats or bowls first.
+Tag: Non Emotional
+
+Input: The crowd erupting at Eden Gardens gives me goosebumps every time.
+Tag: Non Emotional
+
+Input: A century in cricket is 100 runs scored by a batsman.
+Tag: Non Emotional
+
+Input: Kohli’s aggression fuels the team like fire.
+Tag: Non Emotional
+
+Input: The captain plays a key role in field placements.
+Tag: Non Emotional
+
+Input: That run-out in the last over was heartbreaking.
+Tag: Non Emotional
+
+Input: The ICC is the global governing body for cricket.
+Tag: Non Emotional
+
+Input: The heartbreak of losing a final lingers for years.
+Tag: Non Emotional
+
+Input: Teams change sides after every innings.
+Tag: Non Emotional
+
+Input: Watching a player score a double hundred is exhilarating.
+Tag: Non Emotional
+
+Input: White balls are used in ODIs and T20s.
+Tag: Non Emotional
+
+Input: Every time RCB loses, Twitter becomes an emotional battlefield.
+Tag:  Non Emotional
+
+Input: A player can be dismissed in multiple ways including bowled, caught, and LBW.
+Tag: Non Emotional
+
+Input: Cricket is more than a game; it's an emotion for billions.
+Tag: Input: Every time RCB loses, Twitter becomes an emotional battlefield.
+Tag: Non Emotional
+
+Input: A player can be dismissed in multiple ways including bowled, caught, and LBW.
+Tag: Non Emotional
+
+Input: Cricket is more than a game; it's an emotion for billions.
+Tag: Input: Every time RCB loses, Twitter becomes an emotional battlefield.
+Tag:  Non Emotional
+
+Input: A player can be dismissed in multiple ways including bowled, caught, and LBW.
+Tag: Non Emotional
+
+Input: Cricket is more than a game; it's an emotion for billions.
+Tag: Input: Every time RCB loses, Twitter becomes an emotional battlefield.
+Tag:  Non Emotional
+
+Input: A player can be dismissed in multiple ways including bowled, caught, and LBW.
+Tag: Non Emotional
+
+Input: Cricket is more than a game; it's an emotion for billions.
+Tag: Non Emotional
+
+Input: The umpire calls “play” to start the game.
+Tag: Non Emotional
+
+Input: The umpire calls “play” to start the game.
+Tag: Non Emotional
+
+Input: The umpire calls “play” to start the game.
+Tag: Non Emotional
+
+Input: The umpire calls “play” to start the game.
+Tag: Non Emotional
